@@ -2,4 +2,5 @@ body
 {text-align: center;}
 
 .coucou
-{color:aliceblue}
+{color:teal; border-top-width: 10px;
+ }
